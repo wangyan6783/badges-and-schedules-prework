@@ -12,7 +12,9 @@ def assign_rooms(array)
   new_array
 end
 
-
+def printer
+  
+end
 
 
 require 'spec_helper'
